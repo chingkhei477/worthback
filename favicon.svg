@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Worthback">
+<rect width="64" height="64" rx="18" fill="#B8442B"/>
+<path d="M13 22 L21 46 L32 27 L43 46 L50 25 C53 15 44 10 35 13" fill="none" stroke="#F6EEE1" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.5 7.5 L32 13.5 L38.5 18" fill="none" stroke="#F6EEE1" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="18" cy="14" r="4.2" fill="#E7A33E"/>
+</svg>
